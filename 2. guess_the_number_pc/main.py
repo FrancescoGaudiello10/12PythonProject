@@ -13,7 +13,7 @@ def guess_number(x):
             print("Sorry, guess again. Too high.")
     print(f"Yay, congrats. You have guessed the number {random_number} correctly.")
 
-guess_number(100)
+guess_number(1000)
 
 
 # todo: rendere un app a premi questo gioco!
